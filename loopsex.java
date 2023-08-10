@@ -8,5 +8,11 @@ public class loopsex {
         }
 
         // Task :- printing the table of n using loops
+
+        int a  = 0;
+        while(a < 10) {
+            System.out.println(a);
+            a++;
+        }
     }
 }
