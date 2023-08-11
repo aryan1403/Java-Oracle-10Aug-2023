@@ -26,7 +26,7 @@ public class listex {
             i++;
         } */
         
-        // list.forEach(e -> System.out.print(e + " "));
+        list.forEach(e -> System.out.print(e + " "));
         list.forEach(System.out::println);
     }
 }
